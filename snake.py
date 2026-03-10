@@ -257,7 +257,7 @@ def main():
     direction = None
     food = None
     score = 0
-    # Im a tranny femboy ;w;
+    # Im a blahaj ;w;
     fps = INITIAL_FPS
     game_over = False
     paused = False
